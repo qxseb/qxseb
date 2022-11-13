@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @qxseb
-- 👀 I’m interested in programming javascript, lua and html
-- 📫 How to reach me: qxseb#6432
+Hi, I'm @qxseb
+
+I am interested in JS, Lua, C# and many more.
+
+You can reach me on Discord: qxseb#6432
 
 <!---
 qxseb/qxseb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
