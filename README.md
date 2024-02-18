@@ -2,7 +2,7 @@ Hi, I'm @qxseb
 
 I am interested in JS, Lua, C# and many more.
 
-You can reach me on Discord: qxseb#6432
+You can reach me on Discord: vxmpseb
 
 <!---
 qxseb/qxseb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
